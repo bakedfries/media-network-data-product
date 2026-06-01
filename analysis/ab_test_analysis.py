@@ -5,8 +5,6 @@ Hypothesis: Switching the analytics dashboard default date range from
 7-day to 30-day (implemented Nov 1, 2024) increased analyst engagement —
 measured by session length, filter usage, and report exports.
 
-Analyst: Aakriti Dahal
-Project: Media Network Data Product Health Tracker
 """
 
 import pandas as pd
