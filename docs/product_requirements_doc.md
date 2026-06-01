@@ -3,7 +3,6 @@
 
 **Author:** Aakriti Dahal, Data Product Analyst  
 **Version:** 1.0  
-**Status:** Draft — Pending Stakeholder Sign-off  
 **Stakeholders:** Analytics Lead, Campaign Ops Manager, BI Engineering, Content Pod Lead  
 **Target Release:** Sprint 2 (2-week cycle)
 
