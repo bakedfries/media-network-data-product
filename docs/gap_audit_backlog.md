@@ -128,7 +128,7 @@ Each gap was identified through stakeholder interviews, dashboard usage analysis
 
 ---
 
-### G-08 — Dashboard Usage Not Tracked ✅ Resolved
+### G-08 — Dashboard Usage Not Tracked --> Resolved
 
 **Resolution:** Dashboard usage logging was implemented as part of this project (see `data/dashboard_usage.csv` and A/B test analysis). Sessions, filter usage, and export events are now tracked per user per day. Adoption baseline established for ongoing monitoring.
 
