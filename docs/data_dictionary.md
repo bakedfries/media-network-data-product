@@ -1,5 +1,5 @@
 # Data Dictionary — Media Network Analytics
-**Owner:** Aakriti Dahal, Data Product Analyst  
+**Owner:** Aakriti Dahal
 **Last Validated:** 2025-01-15  
 **Tables covered:** `campaigns`, `daily_performance`, `content`, `content_daily`, `dashboard_usage`
 
