@@ -1,7 +1,6 @@
 -- ============================================================
--- Media Network Analytics — SQL Query Library
--- Analyst: Aakriti Dahal  |  Project: Data Product Health Tracker
--- Dataset: Simulated retail media network (Jul 2024 – Jan 2025)
+-- Analyst: Aakriti Dahal 
+-- Dataset: retail media network (Jul 2024 – Jan 2025)
 -- Tables: campaigns, daily_performance, content, content_daily,
 --         dashboard_usage
 -- ============================================================
