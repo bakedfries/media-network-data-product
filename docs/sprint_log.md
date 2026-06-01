@@ -13,14 +13,14 @@
 
 | Ticket | Task | Points | Status |
 |--------|------|--------|--------|
-| MN-01 | Audit all 5 data tables for schema issues, nulls, and undocumented fields | 3 | ✅ Done |
-| MN-02 | Interview stakeholders from Analytics, Campaign Ops, Content, and Finance pods | 3 | ✅ Done |
-| MN-03 | Run gap audit; log findings in gap_audit_backlog.md | 2 | ✅ Done |
-| MN-04 | Write 12 SQL queries covering core media analytics KPIs | 5 | ✅ Done |
-| MN-05 | Implement dashboard usage tracking (G-08) | 3 | ✅ Done |
-| MN-06 | Run A/B test analysis on default date range change | 3 | ✅ Done |
-| MN-07 | Generate simulated dataset for project environment | 2 | ✅ Done |
-| MN-08 | Prioritize Sprint 2 backlog with stakeholders | 1 | ✅ Done |
+| MN-01 | Audit all 5 data tables for schema issues, nulls, and undocumented fields | 3 | Done |
+| MN-02 | Interview stakeholders from Analytics, Campaign Ops, Content, and Finance pods | 3 |  Done |
+| MN-03 | Run gap audit; log findings in gap_audit_backlog.md | 2 |  Done |
+| MN-04 | Write 12 SQL queries covering core media analytics KPIs | 5 |  Done |
+| MN-05 | Implement dashboard usage tracking (G-08) | 3 |  Done |
+| MN-06 | Run A/B test analysis on default date range change | 3 |  Done |
+| MN-07 | Generate simulated dataset for project environment | 2 |  Done |
+| MN-08 | Prioritize Sprint 2 backlog with stakeholders | 1 |  Done |
 
 **Sprint 1 Velocity:** 22 points completed / 22 planned  
 **Retrospective notes:**  
@@ -37,16 +37,16 @@
 
 | Ticket | Task | Points | Status |
 |--------|------|--------|--------|
-| MN-09 | Standardize CTR formula across all SQL report templates (G-01) | 3 | ✅ Done |
-| MN-10 | Add KPI Glossary page to dashboard (G-01) | 2 | ✅ Done |
-| MN-11 | Fix regional COALESCE logic in all regional queries (G-07) | 1 | ✅ Done |
-| MN-12 | Add data validation check for NULL region at ingestion (G-07) | 2 | ✅ Done |
-| MN-13 | Get Finance sign-off on regional reconciliation (G-07) | 1 | ✅ Done |
-| MN-14 | Standardize completion rate to `completions/impressions` (G-03) | 1 | ✅ Done |
-| MN-15 | Publish full data dictionary covering all 5 tables (G-06) | 3 | ✅ Done |
-| MN-16 | QA all 3 fixes against 10 representative campaigns | 2 | ✅ Done |
-| MN-17 | Write G-04 requirements in PRD for BI Engineering handoff | 3 | ✅ Done |
-| MN-18 | Sprint 2 stakeholder demo + retrospective | 1 | ✅ Done |
+| MN-09 | Standardize CTR formula across all SQL report templates (G-01) | 3 |  Done |
+| MN-10 | Add KPI Glossary page to dashboard (G-01) | 2 |  Done |
+| MN-11 | Fix regional COALESCE logic in all regional queries (G-07) | 1 |  Done |
+| MN-12 | Add data validation check for NULL region at ingestion (G-07) | 2 |  Done |
+| MN-13 | Get Finance sign-off on regional reconciliation (G-07) | 1 |  Done |
+| MN-14 | Standardize completion rate to `completions/impressions` (G-03) | 1 |  Done |
+| MN-15 | Publish full data dictionary covering all 5 tables (G-06) | 3 |  Done |
+| MN-16 | QA all 3 fixes against 10 representative campaigns | 2 |  Done |
+| MN-17 | Write G-04 requirements in PRD for BI Engineering handoff | 3 |  Done |
+| MN-18 | Sprint 2 stakeholder demo + retrospective | 1 |  Done |
 
 **Sprint 2 Velocity:** 19 points completed / 19 planned  
 **Retrospective notes:**  
