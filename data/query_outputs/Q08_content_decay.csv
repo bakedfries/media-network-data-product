@@ -1,0 +1,25 @@
+category,content_age_bucket,avg_daily_views,avg_completion_pct
+Documentary,Week 1,368973.0,62.39
+Documentary,Week 2,273388.0,66.41
+Documentary,Week 3,222991.0,63.87
+Documentary,Week 4+,72394.0,64.3
+Drama,Week 1,382532.0,65.52
+Drama,Week 2,279604.0,63.68
+Drama,Week 3,216178.0,63.39
+Drama,Week 4+,63013.0,62.78
+Entertainment,Week 1,363298.0,64.28
+Entertainment,Week 2,279363.0,63.95
+Entertainment,Week 3,219160.0,64.1
+Entertainment,Week 4+,68170.0,63.94
+News,Week 1,364291.0,64.61
+News,Week 2,251289.0,61.12
+News,Week 3,196755.0,67.7
+News,Week 4+,68918.0,63.57
+Reality,Week 1,361883.0,65.23
+Reality,Week 2,287261.0,63.47
+Reality,Week 3,212097.0,66.45
+Reality,Week 4+,63083.0,63.47
+Sports,Week 1,363585.0,63.01
+Sports,Week 2,266618.0,65.41
+Sports,Week 3,232716.0,66.55
+Sports,Week 4+,66142.0,63.57

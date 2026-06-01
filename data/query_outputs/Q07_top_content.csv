@@ -1,0 +1,11 @@
+content_id,title,category,network,total_views,avg_watch_min,avg_completion_pct,days_active
+CNT0075,Sports_Show_075,Sports,VisionPlus,13349965,27.5,62.5,90
+CNT0022,Entertainment_Show_022,Entertainment,PrimeView,12054283,36.61,61.02,90
+CNT0072,Reality_Show_072,Reality,VisionPlus,11892000,28.17,64.01,90
+CNT0069,Drama_Show_069,Drama,NexGen,11863499,27.81,63.2,90
+CNT0070,Drama_Show_070,Drama,PrimeView,11841814,26.93,61.2,90
+CNT0058,Sports_Show_058,Sports,PrimeView,11752102,58.92,65.47,90
+CNT0020,Drama_Show_020,Drama,NexGen,11728075,37.88,63.13,90
+CNT0056,Drama_Show_056,Drama,PrimeView,11688456,38.99,64.99,90
+CNT0065,Entertainment_Show_065,Entertainment,VisionPlus,11636231,39.01,65.01,90
+CNT0041,Documentary_Show_041,Documentary,ArcLight,11617211,13.6,61.83,90
