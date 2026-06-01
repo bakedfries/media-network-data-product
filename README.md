@@ -1,6 +1,5 @@
 # Media Network Data Product Health Tracker
 
-**Role simulated:** Data Product Analyst  
 **Context:** A media streaming/advertising network (retail media framework) with 5 internal analytics pods. I was brought in as a shared analytics resource to audit the existing data product ecosystem, identify gaps, fix measurement inconsistencies, and improve analyst self-service capability.  
 **Tools:** Python · SQL (SQLite) · SciPy · Pandas · Markdown · Jira (simulated)
 
