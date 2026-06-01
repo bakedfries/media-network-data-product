@@ -17,7 +17,7 @@ This is an end-to-end data product analyst portfolio project covering every core
 | A/B test / product experiment analysis | [`analysis/ab_test_analysis.py`](analysis/ab_test_analysis.py) |
 | Governance & data dictionary | [`docs/data_dictionary.md`](docs/data_dictionary.md) |
 | Agile delivery | [`docs/sprint_log.md`](docs/sprint_log.md) |
-| Dashboard | [`Dashboards`]([docs/sprint_log.md](https://public.tableau.com/views/MediaNetworkAnalytics/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) |
+| Dashboard | [`Dashboards`](https://public.tableau.com/views/MediaNetworkAnalytics/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) |
 
 ---
 
